@@ -1,6 +1,6 @@
 channels:
 - conda-forge
 dependencies:
-- pyiron
+- pyiron =0.4.7
 - lammps
 - nglview
